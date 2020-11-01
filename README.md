@@ -5,7 +5,7 @@
 
 ## Hardware Overview
 
-I use a standard ir receiver as follows:
+I use a standard ir-receiver as follows:
 
 ![grafik](https://user-images.githubusercontent.com/73773036/97799408-6dbb5900-1c2e-11eb-8a76-7e3e1dbaa29b.png)
 
@@ -18,5 +18,11 @@ I use a standard ir receiver as follows:
 
 Wiring of sensor is pretty basic:
 
+![grafik](https://user-images.githubusercontent.com/73773036/97799621-837d4e00-1c2f-11eb-9b96-da6cf88432da.png)
+
 
 **The resistor between Out and VCC is optional.**
+
+In my setup, i use a cheap third party remote control like this:
+
+
