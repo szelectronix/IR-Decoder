@@ -1,16 +1,16 @@
 # IR-Decoder
-*  Simple Arduino sketch for decoding IR signals from Remote Control
+*  simple Arduino sketch for decoding IR signals from remote control
 *  use the IRremote.h library
-*  Output per Serial Monitor
+*  output per serial monitor
 
 ## Hardware Overview
 
-I use a standard ir-receiver as follows:
+I use a standard ir-receiver like this:
 
 ![grafik](https://user-images.githubusercontent.com/73773036/97799408-6dbb5900-1c2e-11eb-8a76-7e3e1dbaa29b.png)
 
 *  Pinning is:
-   *  1...Out
+   *  1...OUT
    *  2...GND
    *  3...VCC(3V3)
    
@@ -23,7 +23,7 @@ Wiring of sensor is pretty basic:
 
 **The resistor between Out and VCC is optional.**
 
-In my setup, i use a cheap third party remote control like this:
+In my setup, i use a third party remote control like this:
 
 ![grafik](https://user-images.githubusercontent.com/73773036/97800297-6d25c100-1c34-11eb-8d23-435467d86fd5.png)
 
@@ -33,7 +33,7 @@ At first i've checked the raw signals. They looked like expected:
 
 ![grafik](https://user-images.githubusercontent.com/73773036/97800561-7b74dc80-1c36-11eb-950d-330fbdda2e18.png)
 
-In the end, i get followed decoded IR- Signals:
+In the end, i get following decoded IR- Signals:
 
 | Button | HEX |	BIN |	DEC |
 |---|---|---|---|
