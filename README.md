@@ -35,7 +35,7 @@ At first i've checked the raw signals. They looked like expected:
 
 In the end, i get followed decoded IR- Signals:
 
-| Button | HEX |	BIN |	DEZ |
+| Button | HEX |	BIN |	DEC |
 |---|---|---|---|
 |Play/Pause|	FF00FF |	11111111.00000000.11111111 |	16.711.935 |
 |Snooze|	FF807F|	11111111.10000000.01111111|	16.744.575|
