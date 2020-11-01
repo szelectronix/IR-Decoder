@@ -27,7 +27,11 @@ In my setup, i use a cheap third party remote control like this:
 
 ![grafik](https://user-images.githubusercontent.com/73773036/97800297-6d25c100-1c34-11eb-8d23-435467d86fd5.png)
 
-At first i've checked the raw signals. They looked like expected
+## Decoding
+
+At first i've checked the raw signals. They looked like expected:
+
+![grafik](https://user-images.githubusercontent.com/73773036/97800561-7b74dc80-1c36-11eb-950d-330fbdda2e18.png)
 
 In the end, i get followed decoded IR- Signals:
 
