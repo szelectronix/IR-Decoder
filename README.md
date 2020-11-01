@@ -25,4 +25,6 @@ Wiring of sensor is pretty basic:
 
 In my setup, i use a cheap third party remote control like this:
 
+![grafik](https://user-images.githubusercontent.com/73773036/97800297-6d25c100-1c34-11eb-8d23-435467d86fd5.png)
 
+At first i've checked the raw signals. They looked like expected
